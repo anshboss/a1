@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=PT+Sans&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+img
+{
+    margin-top: 0px;
+    width: 100%;
+}
+
+p.a2
+{
+    font-size: 5rem;
+}
+
+h1.a1
+{
+    margin-top: -700px;
+    color: rgb(12, 10, 12);
+}
+
+h1
+{
+    font-family: 'Dongle', sans-serif;
+    font-size: 5rem;
+}
+
+p
+{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+}
+
